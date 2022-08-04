@@ -1,0 +1,27 @@
+body{
+  background-color: lightgrey;
+  background-image: url("../images/login_bg.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin: 2em;
+}
+h1{
+  font-size: 3em;
+  color: red;
+}
+p{
+  font-size: 1.5em;
+  color: white;
+}
+button{
+  margin-right: 2em;
+  height: 30px;
+}
+.about{
+  margin-right: 3.7em;
+  margin-bottom: 5.8em;
+  height: 17em;
+}
+.last{
+  margin-right: 0.5em;
+}

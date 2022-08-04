@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: arial;
+}
+
+.media-container {
+    width: 900px;
+    background-color: whitesmoke;
+    padding: 30px;
+
+}
+
+.media-box {
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 10px;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+
+input {
+    width: 100px;
+    height: 44px;
+    font-size: 22px;
+}
