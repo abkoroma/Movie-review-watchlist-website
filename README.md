@@ -1,17 +1,38 @@
  
-Agile Project Charter
-9/29/20
+# Movie Review & Watchlist Website
 
-Abu Koroma
+Welcome to the **Movie Review & Watchlist Website** repository!  
+This project is a web application designed for movie enthusiasts to discover, review, and curate their personalized watchlist of movies. Built primarily with PHP, CSS, JavaScript, and HTML, it provides a user-friendly platform for engaging with the world of cinema.
 
+---
 
-Vision
+## Features
 
- A review website focused on cinematography. My goal is to make this site into one that favors the user’s input in every way possible, and keep an open line of communication for any and all feedback. 
+- **Browse Movies:**  
+  Explore a catalog of movies with details such as title, genre, release year, and synopsis.
 
-Success Criteria
+- **User Reviews:**  
+  Read reviews from other users or contribute your own thoughts and ratings for each movie.
 
-The website will need to be user-friendly and keep the users’ information safe. The website will need to provide quality reviews, with a focus on user reviews over critic reviews.  Users should be able to post their own reviews as well as comment on others’ reviews inciting discussion.
+- **Watchlist Management:**  
+  Add movies to your personal watchlist, remove them, and track what you want to watch next.
+
+- **Responsive Design:**  
+  The website is optimized for both desktop and mobile devices using modern CSS.
+
+- **Authentication (Optional):**  
+  Register and log in to personalize your experience (if implemented).
+
+---
+
+## Tech Stack
+
+- **Backend:** PHP
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Other:**  
+  - Session management and user authentication with PHP
+  - Dynamic rendering of movie and review data
 
 
 
