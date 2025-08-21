@@ -21,7 +21,7 @@ This project is a web application designed for movie enthusiasts to discover, re
   The website is optimized for both desktop and mobile devices using modern CSS.
 
 - **Authentication (Optional):**  
-  Register and log in to personalize your experience (if implemented).
+  Register and log in to personalize your experience.
 
 ---
 
